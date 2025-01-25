@@ -1,4 +1,4 @@
-# altcoin-seeder
+# bit-seeder
 
 ### v1.1.0
 
@@ -52,13 +52,13 @@ sudo apt-get install git build-essential libboost-all-dev libssl-dev libcurl4-op
 ### Step 2 - Download Source Code
 
 ```
-git clone https://github.com/CryptoDevelopmentServices/Altcoin-Seeder.git
+git clone https://github.com/bittoshimoto/Bit-Seeder.git
 ```
 
 ### Step 3 - Navigate to Source Directory
 
 ```
-cd altcoin-seeder
+cd bit-seeder
 ```
 
 ### Step 4 - Configure Seeder Settings
